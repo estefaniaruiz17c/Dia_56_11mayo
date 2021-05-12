@@ -1,0 +1,8 @@
+nombre edad ciudad medio_transporte uso_semanal 
+Elena 23 Itagui automovil 8
+Albeiro 45 Medellín moto 10
+Pedro 40 Envigado moto 16
+Susan 25 Medellín bus 14
+Rosa 54 Itagui automovil 20
+Ronald 36 Medellín moto 36
+Flor 41 Itagui bus 12

@@ -1,0 +1,6 @@
+"nombre_reserva" "cantidad_personas" "destino" "medio_transporte" "tour"
+"1" "Aurelio" 4 "Nueva_York" "avion" "si"
+"2" "Elisa" 5 "Portugal" "barco" "si"
+"4" "Ricardo" 1 "Moscu" "avion" "si"
+"5" "Camilo" 3 "Brasilia" "avion" "si"
+"6" "Carla" 4 "Marruecos" "barco" "si"

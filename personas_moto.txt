@@ -1,0 +1,4 @@
+"nombre" "edad" "ciudad" "medio_transporte" "uso_semanal"
+"Albeiro" 45 "Medellín" "moto" 10
+"Pedro" 40 "Envigado" "moto" 16
+"Ronald" 36 "Medellín" "moto" 36
